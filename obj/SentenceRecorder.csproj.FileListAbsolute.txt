@@ -1,0 +1,8 @@
+D:\dictate-cont\SentenceRecorder\bin\Debug\SentenceRecorder.exe
+D:\dictate-cont\SentenceRecorder\bin\Debug\SentenceRecorder.pdb
+D:\dictate-cont\SentenceRecorder\obj\Debug\ResolveAssemblyReference.cache
+D:\dictate-cont\SentenceRecorder\obj\Debug\SentenceRecorder.Form1.resources
+D:\dictate-cont\SentenceRecorder\obj\Debug\SentenceRecorder.Properties.Resources.resources
+D:\dictate-cont\SentenceRecorder\obj\Debug\SentenceRecorder.csproj.GenerateResource.Cache
+D:\dictate-cont\SentenceRecorder\obj\Debug\SentenceRecorder.exe
+D:\dictate-cont\SentenceRecorder\obj\Debug\SentenceRecorder.pdb
